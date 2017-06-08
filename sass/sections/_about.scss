@@ -1,0 +1,59 @@
+/*About Section*/
+
+.about {
+	background-color: $primary-color;
+	color: #fff;
+
+	.next, .arrow-down {
+		border-color: $primary-color;
+	}
+}
+
+.about-heading {
+	@include column(100%);
+
+	h3 {
+		@extend h1;
+		font-size: 4rem;
+
+		&:after {
+			@include divider (#fff, 40%, 1px, 0 auto);
+		}
+	}
+
+	h4 {
+		@extend h2;
+		font-family: 'Raleway', sans-serif;
+		font-size: 1rem;
+		font-weight: 300;
+		text-align: center;
+		letter-spacing: 0.4em;
+	}
+}
+
+.about-text {
+	@include column(50%);
+
+	@media (min-width: 767px) {
+		margin: 2rem 0px;
+	}
+}
+
+.pdf-link {
+	font-family: 'Raleway', sans-serif;
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	border: 2px solid #fff;
+	border-radius: 20px;
+	color: #fff;
+	padding: 8px 25px;
+	display: block;
+	width: 205px;
+	margin: 0px auto;
+
+	&:hover {
+		background: #fff;
+		color: $primary-color;
+	}
+}

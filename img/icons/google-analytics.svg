@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 105 105" enable-background="new 0 0 105 105" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1.8286" y1="9" x2="190.1714" y2="9" gradientTransform="matrix(0.5469 0 0 -0.5469 0 57.4219)">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.1"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M95.7,1H76.9c-4.5,0-8.3,3.7-8.3,8.3v24.2H41.5c-4.4,0-8,3.6-8,8.1v27.2H9.1c-4.5,0-8.1,3.6-8.1,8.1
+	v19c0,4.5,3.6,8.1,8.1,8.2h86.7c4.5,0,8.3-3.7,8.3-8.3V9.3C103.9,4.8,100.2,1,95.7,1z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="1.8286" y1="9" x2="190.1714" y2="9" gradientTransform="matrix(0.5469 0 0 -0.5469 0 57.4219)">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.1"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+</linearGradient>
+<path fill="url(#SVGID_2_)" d="M95.7,1H76.9c-4.5,0-8.3,3.7-8.3,8.3v24.2H41.5c-4.4,0-8,3.6-8,8.1v27.2H9.1c-4.5,0-8.1,3.6-8.1,8.1
+	v19c0,4.5,3.6,8.1,8.1,8.2h86.7c4.5,0,8.3-3.7,8.3-8.3V9.3C103.9,4.8,100.2,1,95.7,1z"/>
+<g>
+	<defs>
+		<path id="SVGID_3_" d="M95.7,1H77.1c-4.5,0-8.3,3.7-8.3,8.3v24.2H41.7c-4.5,0-8.1,3.7-8.1,8.1v27.1H9.2c-4.5,0-8.1,3.7-8.1,8.1v19
+			c0,4.5,3.7,8.1,8.1,8.1h86.5c4.5,0,8.3-3.7,8.3-8.3V9.3C104,4.8,100.2,1,95.7,1z"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_4_)">
+		<path fill="#F57C00" d="M95.7,1H77.1c-4.5,0-8.3,3.7-8.3,8.3V104h26.9c4.5,0,8.3-3.7,8.3-8.3V9.3C104,4.8,100.2,1,95.7,1z"/>
+		
+			<image overflow="visible" opacity="0.2" enable-background="new    " width="125" height="129" xlink:href="C3D0D0EC.png"  transform="matrix(0.6772 0 0 0.6772 -5.0608 27.4441)">
+		</image>
+		<path fill="#FFC107" d="M33.5,41.7v27.1H9.2c-4.5,0-8.1,3.7-8.1,8.1v19c0,4.5,3.7,8.1,8.1,8.1h59.6V33.5H41.7
+			C37.2,33.5,33.5,37.2,33.5,41.7z"/>
+	</g>
+</g>
+<g>
+	<defs>
+		<path id="SVGID_5_" d="M95.7,1H77.1c-4.5,0-8.3,3.7-8.3,8.3v24.2H41.7c-4.5,0-8.1,3.7-8.1,8.1v27.1H9.2c-4.5,0-8.1,3.7-8.1,8.1v19
+			c0,4.5,3.7,8.1,8.1,8.1h86.5c4.5,0,8.3-3.7,8.3-8.3V9.3C104,4.8,100.2,1,95.7,1z"/>
+	</defs>
+	<clipPath id="SVGID_6_">
+		<use xlink:href="#SVGID_5_"  overflow="visible"/>
+	</clipPath>
+	
+		<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="93.833" y1="11.167" x2="185.6022" y2="-80.6022" gradientTransform="matrix(0.5469 0 0 -0.5469 0 57.4219)">
+		<stop  offset="0" style="stop-color:#BF360C;stop-opacity:0.2"/>
+		<stop  offset="1" style="stop-color:#BF360C;stop-opacity:2.000000e-002"/>
+	</linearGradient>
+	<path clip-path="url(#SVGID_6_)" fill="url(#SVGID_7_)" d="M68.8,33.5V104h26.9c4.5,0,8.3-3.7,8.3-8.3v-27L68.8,33.5z"/>
+</g>
+<g>
+	<defs>
+		<path id="SVGID_8_" d="M95.7,1H77.1c-4.5,0-8.3,3.7-8.3,8.3v24.2H41.7c-4.5,0-8.1,3.7-8.1,8.1v27.1H9.2c-4.5,0-8.1,3.7-8.1,8.1v19
+			c0,4.5,3.7,8.1,8.1,8.1h86.5c4.5,0,8.3-3.7,8.3-8.3V9.3C104,4.8,100.2,1,95.7,1z"/>
+	</defs>
+	<clipPath id="SVGID_9_">
+		<use xlink:href="#SVGID_8_"  overflow="visible"/>
+	</clipPath>
+	<path opacity="0.2" clip-path="url(#SVGID_9_)" fill="#FFFFFF" enable-background="new    " d="M41.7,34.2h27.1v-0.7H41.7
+		c-4.5,0-8.1,3.7-8.1,8.1v0.7C33.5,37.9,37.2,34.2,41.7,34.2z M9.2,69.4h24.4v-0.7H9.2c-4.5,0-8.1,3.7-8.1,8.1v0.7
+		C1,73.1,4.7,69.4,9.2,69.4z M95.7,1H77.1c-4.5,0-8.3,3.7-8.3,8.3V10c0-4.5,3.7-8.3,8.3-8.3h18.6c4.5,0,8.3,3.7,8.3,8.3V9.3
+		C104,4.8,100.2,1,95.7,1z"/>
+</g>
+<g>
+	<defs>
+		<path id="SVGID_10_" d="M95.7,1H77.1c-4.5,0-8.3,3.7-8.3,8.3v24.2H41.7c-4.5,0-8.1,3.7-8.1,8.1v27.1H9.2c-4.5,0-8.1,3.7-8.1,8.1
+			v19c0,4.5,3.7,8.1,8.1,8.1h86.5c4.5,0,8.3-3.7,8.3-8.3V9.3C104,4.8,100.2,1,95.7,1z"/>
+	</defs>
+	<clipPath id="SVGID_11_">
+		<use xlink:href="#SVGID_10_"  overflow="visible"/>
+	</clipPath>
+	<path opacity="0.2" clip-path="url(#SVGID_11_)" fill="#BF360C" enable-background="new    " d="M95.7,103.3H9.2
+		c-4.5,0-8.1-3.7-8.1-8.1v0.7c0,4.5,3.7,8.1,8.1,8.1h86.5c4.5,0,8.3-3.7,8.3-8.3V95C104,99.6,100.2,103.3,95.7,103.3z"/>
+</g>
+<linearGradient id="SVGID_12_" gradientUnits="userSpaceOnUse" x1="65.0042" y1="39.9184" x2="186.7597" y2="-81.837" gradientTransform="matrix(0.5469 0 0 -0.5469 0 57.4219)">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.1"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+</linearGradient>
+<path fill="url(#SVGID_12_)" d="M95.7,1H77.1c-4.5,0-8.3,3.7-8.3,8.3v24.2H41.7c-4.5,0-8.1,3.7-8.1,8.1v27.1H9.2
+	c-4.5,0-8.1,3.7-8.1,8.1v19c0,4.5,3.7,8.1,8.1,8.1h86.5c4.5,0,8.3-3.7,8.3-8.3V9.3C104,4.8,100.2,1,95.7,1z"/>
+</svg>

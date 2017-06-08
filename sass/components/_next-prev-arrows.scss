@@ -1,0 +1,19 @@
+/* Section Navigation - Up & Down arrows */
+
+.previous {
+	@include semi-circle(top, bottom);
+
+    .arrow-up {
+    	@include arrow();
+    	transform: rotate(-135deg);
+    }
+}
+
+.next {
+	@include semi-circle(bottom, top);
+
+    .arrow-down {
+    	@include arrow();
+    	transform: rotate(45deg);
+    }
+}

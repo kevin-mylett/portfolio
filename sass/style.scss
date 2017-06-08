@@ -1,0 +1,13 @@
+@import 'helpers/custom-variables';
+@import 'helpers/mixins';
+
+@import 'layout';
+
+@import 'components/navigation';
+@import 'components/section-footers';
+@import 'components/next-prev-arrows';
+
+@import 'sections/about';
+@import 'sections/skills';
+@import 'sections/work';
+@import 'sections/contact';

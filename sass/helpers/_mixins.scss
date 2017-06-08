@@ -1,0 +1,47 @@
+@mixin column($width) {
+	flex: 1 1 100%;
+
+	@media (min-width: 768px) {
+		flex: 1 1 $width;
+		padding: 0 10px;
+	}
+}
+
+@mixin semi-circle($straight-edge, $round-edge ) {
+	display: none;
+	@media (min-width: 768px) {
+		width: 100px;
+		height: 50px;
+		border: 1px solid white;
+		cursor: pointer;
+		border-#{$straight-edge}: 0;
+		border-#{$round-edge}-left-radius: 51px;
+		border-#{$round-edge}-right-radius: 51px;
+		position: absolute;
+		#{$straight-edge}: 0;
+		left: calc(50% - (100px / 2));
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		z-index: 4;
+	}
+}
+
+@mixin divider($color, $width, $height, $margin) {
+	content: "";
+	background-color: $color;
+	width: $width;
+	height: $height;
+	display: block;
+	position: relative;
+	margin: $margin;
+}
+
+@mixin arrow() {
+  border: solid white;
+  border-width: 0 1px 1px 0;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  padding-bottom: 10px;
+}

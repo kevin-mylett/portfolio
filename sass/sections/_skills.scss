@@ -1,0 +1,75 @@
+/*Skills Section*/
+
+.skills .mobile-section-heading {
+	color: $primary-color;
+}
+
+.skills-container {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+
+	h3 {
+		font-size: 0.9rem;
+		letter-spacing: 0.3em;
+		text-align: center;
+		text-transform: uppercase;
+
+		&:after {
+			@include divider ($primary-color, 50px, 1px, 1em auto);
+		}
+	}
+
+	.skill-group {
+		margin: 1.5em 0;
+
+		figure {
+			margin: 1.67em 1%;
+			width: calc(100% * (1/3) - 3%);
+			display: inline-block;
+
+			figcaption {
+				text-align: center;
+				margin-top: 1.67em;
+				font-family: 'Raleway', sans-serif;
+				letter-spacing: .1em;
+				font-size: 0.75rem;
+				text-transform: uppercase;
+			}
+
+			.skills-icon {
+				display: block;
+				margin: 0 auto;
+				width: 30px;
+			}
+		}
+	}
+}
+
+@media (min-width: 768px) {
+	.skills {
+		.previous, .arrow-up {
+			border-color: $primary-color;
+		}
+	}
+
+	.skills-container {
+		flex-direction: row;
+		align-items: center;
+
+		.skill-group {
+			flex: 1 33%;
+			margin: 0;
+
+			figure {
+				margin: 2.2em 0;
+				width: calc(100% * (1/2) - 4%);
+				display: inline-block;
+
+				.skills-icon {
+					width: 40px;
+				}
+			}
+		}
+	}
+}

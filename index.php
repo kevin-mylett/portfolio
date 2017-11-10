@@ -51,12 +51,12 @@
 			</div>
 			<a href="Kevin Mylett - CV 2017.pdf" target="_blank" download="Kevin Mylett - CV 2017.pdf" class="pdf-link">Download CV</a>
 		</div>
-		<?php include '/templates/next-button.php'; ?>
+		<?php include 'templates/next-button.php'; ?>
 	</section>
 	
 	<section class="skills" data-anchor="skills">
 		<h2 class="mobile-section-heading">Skills</h2>
-		<?php include '/templates/prev-button.php'; ?>
+		<?php include 'templates/prev-button.php'; ?>
 		<div class="skills-footer diagonal-footer reverse">
 			<div><h2 class="section-heading">Skills</h2></div>
 			<svg viewBox="0 0 40 100" preserveAspectRatio="none">
@@ -146,11 +146,11 @@
 				</figure>
 			</div>
 		</div>
-		<?php include '/templates/next-button.php'; ?>
+		<?php include 'templates/next-button.php'; ?>
 	</section>
 	
 	<section class="work" data-anchor="work">
-		<?php include '/templates/prev-button.php'; ?>
+		<?php include 'templates/prev-button.php'; ?>
 		<h2 class="offscreen">Work</h2>
 	    <div class="slide">
 	    	<div class="slide-container">
@@ -192,12 +192,12 @@
 		    	<p>A little side-project I built in my spare time whilst learning JavaScript.</p>
 	    	</div>    		
     	</div>
-    	<?php include '/templates/next-button.php'; ?>
+    	<?php include 'templates/next-button.php'; ?>
 	</section>
 	
 
 	<section class="contact" data-anchor="contact">
-		<?php include '/templates/prev-button.php'; ?>
+		<?php include 'templates/prev-button.php'; ?>
 		<div class="contact-footer diagonal-footer">
 			<div><h2 class="section-heading">Contact</h2></div>
 			<svg viewBox="0 0 40 100" preserveAspectRatio="none">
